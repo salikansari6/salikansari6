@@ -19,19 +19,19 @@ I am a **Final Year Computer Engineering Student** 🖥🎓 from Mumbai. I have 
 
 
 ## Skills
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' style="margin-left:10px;">
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' style="margin-left:10px;">
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg' style="margin-left:10px;"> 
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg' style="margin-left:10px;"> 
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg' style="margin-left:10px;"> 
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg' style="margin-left:10px;">
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg' style="margin-left:10px;">
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg' style="margin-left:10px;">
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg' style="margin-left:10px;">
-<img width ='50px' src ='https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg' style="margin-left:10px;">
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg' style="margin-left:10px;">
-<img width ='50px' src ='https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg' style="margin-left:10px;">
-<img width ='32px' src ='https://duncanleung.com/static/4754115ddd48b63d252f8014e9a86177/92ab1/storybook.png' style="margin-left:10px;">
+<a href="https://reactjs.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' style="margin-left:10px;"></a>
+<a href="https://www.javascript.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' style="margin-left:10px;"></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg' style="margin-left:10px;"></a>
+<a href="https://sass-lang.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg' style="margin-left:10px;"></a>
+<a href="https://www.python.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg' style="margin-left:10px;"></a>
+<a href="https://nodejs.org/en/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg' style="margin-left:10px;"></a>
+<a href="https://expressjs.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg' style="margin-left:10px;"></a>
+<a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/"><img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg' style="margin-left:10px;"></a>
+<a href="https://tailwindcss.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg' style="margin-left:10px;"></a>
+<a href="https://nextjs.org/"><img width ='50px' src ='https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg' style="margin-left:10px;"></a>
+<a href="https://developer.android.com/docs"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg' style="margin-left:10px;"></a>
+<a href="https://www.npmjs.com/"<img width ='50px' src ='https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg' style="margin-left:10px;"></a>
+<a href="https://storybook.js.org/"><img width ='32px' src ='https://duncanleung.com/static/4754115ddd48b63d252f8014e9a86177/92ab1/storybook.png' style="margin-left:10px;"></a>
 
 ## Connect with me
 <a href = 'https://www.linkedin.com/in/salik-a-b44305108' style="margin-left:10px;"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 

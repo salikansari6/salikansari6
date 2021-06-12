@@ -23,7 +23,7 @@ I am a **Final Year Computer Engineering Student** 🖥🎓 from Mumbai. I have 
 <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'></code>
 <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></code>
 <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'></code>
-<code><img width ='32px' src ='https://www.nextontop.com/assets/img/services/web/expressjs.svg'></code>
+<code><img width ='50px' src ='https://www.nextontop.com/assets/img/services/web/expressjs.svg'></code>
 <code><img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'></code>
 <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'></code>
 <code><img width ='32px' src='https://camo.githubusercontent.com/8660df2110ee913ff739e173b9d00871d8f8eb1bf7596e22c64d62bfae7e2b5a/68747470733a2f2f7777772e6f6e67726170682e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30322f6e6578746a735f69636f6e2e706e67'></code>

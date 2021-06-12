@@ -17,19 +17,19 @@ I am a **Final Year Computer Engineering Student** 🖥🎓 from Mumbai. I have 
 
 ## Skills
 
-<code><a style="margin-left:10px;" href="https://reactjs.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a><code/>
-<code><a style="margin-left:10px;" href="https://www.javascript.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a><code/>
-<a style="margin-left:10px;" href="https://www.w3.org/Style/CSS/Overview.en.html"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
-<a style="margin-left:10px;" href="https://sass-lang.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'></a>
-<a style="margin-left:10px;" href="https://www.python.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></a>
-<a style="margin-left:10px;" href="https://nodejs.org/en/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'></a>
-<a style="margin-left:10px;" href="https://expressjs.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'></a>
-<a style="margin-left:10px;" href="https://getbootstrap.com/docs/4.5/getting-started/introduction/"><img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'></a>
-<a style="margin-left:10px;" href="https://tailwindcss.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'></a>
-<a style="margin-left:10px;" href="https://nextjs.org/"><img width ='50px' src ='https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg'></a>
-<a style="margin-left:10px;" href="https://developer.android.com/docs"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'></a>
-<a style="margin-left:10px;" href="https://www.npmjs.com/"><img width ='50px' src ='https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg'></a>
-<a style="margin-left:10px;" href="https://storybook.js.org/"><img width ='32px' src ='https://duncanleung.com/static/4754115ddd48b63d252f8014e9a86177/92ab1/storybook.png'></a>
+<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></code>
+<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></code>
+<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></code>
+<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'></code>
+<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></code>
+<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'></code>
+<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'></code>
+<code><img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'></code>
+<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'></code>
+<code><img width ='50px' src ='https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg'></code>
+<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'></code>
+<code><img width ='50px' src ='https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg'></code>
+<code><img width ='32px' src ='https://duncanleung.com/static/4754115ddd48b63d252f8014e9a86177/92ab1/storybook.png'></code>
 
 ## Connect with me
 

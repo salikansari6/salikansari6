@@ -17,8 +17,8 @@ I am a **Final Year Computer Engineering Student** 🖥🎓 from Mumbai. I have 
 
 ## Skills
 
-<a style="margin-left:10px;" href="https://reactjs.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
-<a style="margin-left:10px;" href="https://www.javascript.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
+<code><a style="margin-left:10px;" href="https://reactjs.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a><code/>
+<code><a style="margin-left:10px;" href="https://www.javascript.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a><code/>
 <a style="margin-left:10px;" href="https://www.w3.org/Style/CSS/Overview.en.html"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
 <a style="margin-left:10px;" href="https://sass-lang.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'></a>
 <a style="margin-left:10px;" href="https://www.python.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></a>

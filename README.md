@@ -6,7 +6,7 @@ I am a **Final Year Computer Engineering Student** 🖥🎓 from Mumbai. I have 
 
 <img width="300px" height = "150px" src="https://images.idgesg.net/images/article/2020/05/sale_25313_primary_image_wide-100842650-large.jpg" alt="cover" align="right"/>
 
-- I am a **Full Stack Developer** whose specialty is the **Front End**. I code User Interfaces from the Web and Mobile
+- I am a **Full Stack Developer** whose specialty is the **Front End**. I code User Interfaces for the Web and Mobile
 - 🔭 I’m currently working on react-preloader-tmnt :- A preloader component library for React Applications. And other Personal Projects related to Web and Mobile Development
 
 - 🌱 I’m currently learning React Native, Android, DevOps, Machine Learning

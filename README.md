@@ -1,10 +1,10 @@
 # Hello there, I am Salik Ansari 👋
+<p align="center">
 <img width="300px" height = "150px" src="https://images.idgesg.net/images/article/2020/05/sale_25313_primary_image_wide-100842650-large.jpg" alt="cover" align="center"/>
-
+</p>
 I am a **Final Year Computer Engineering Student** 🖥🎓 from Mumbai. I have a knack for computers, software and tech. Passionate for Web Development and UI Development
 
 ## About Me
-
 <img width="270px" height = "200px" src="https://i.pinimg.com/originals/a2/70/d2/a270d270d5ca184422cf980475b99e24.gif" alt="cover" align="right"/>
 
 - I am a **Full Stack Developer** whose specialty is the **Front End**. I code User Interfaces for the Web and Mobile

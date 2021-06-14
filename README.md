@@ -1,5 +1,5 @@
 # Hello there, I am Salik Ansari 👋
-<img width="200px" height = "100px" src="https://images.idgesg.net/images/article/2020/05/sale_25313_primary_image_wide-100842650-large.jpg" alt="cover"/>
+<img width="300px" height = "150px" src="https://images.idgesg.net/images/article/2020/05/sale_25313_primary_image_wide-100842650-large.jpg" alt="cover" align="center"/>
 
 I am a **Final Year Computer Engineering Student** 🖥🎓 from Mumbai. I have a knack for computers, software and tech. Passionate for Web Development and UI Development
 

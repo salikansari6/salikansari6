@@ -5,7 +5,7 @@ I am a **Final Year Computer Engineering Student** 🖥🎓 from Mumbai. I have 
 
 ## About Me
 
-<img width="300px" height = "250px" src="https://i.pinimg.com/originals/a2/70/d2/a270d270d5ca184422cf980475b99e24.gif" alt="cover" align="right"/>
+<img width="250" height = "200px" src="https://i.pinimg.com/originals/a2/70/d2/a270d270d5ca184422cf980475b99e24.gif" alt="cover" align="right"/>
 
 - I am a **Full Stack Developer** whose specialty is the **Front End**. I code User Interfaces for the Web and Mobile
 - 🔭 I’m currently working on react-preloader-tmnt :- A preloader component library for React Applications. And other Personal Projects related to Web and Mobile Development

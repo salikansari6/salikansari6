@@ -9,7 +9,7 @@ I am a **Final Year Computer Engineering Student** 🖥🎓 from Mumbai. I have 
 <img width="270px" height = "200px" src="https://i.pinimg.com/originals/a2/70/d2/a270d270d5ca184422cf980475b99e24.gif" alt="cover" align="right"/>
 
 - I am a **Full Stack Developer** whose specialty is the **Front End**. I code User Interfaces for the Web and Mobile
-- 🔭 I’m currently working on kanban-board :- A kanban board application using React, TypeScript and react-dnd library for drag and drop operations. Might scale it to a project management system in future.
+- 🔭 I’m currently working on kanban-board 📝 :- A kanban board application using React, TypeScript and react-dnd library for drag and drop operations. Might scale it to a project management system in future.
 
 - 🌱 I’m currently learning React Native, Android, DevOps, Machine Learning
 

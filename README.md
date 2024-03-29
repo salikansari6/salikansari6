@@ -6,8 +6,6 @@
 I am a **Software Engineer**  from Mumbai. I have a knack for computers, software and tech. Passionate for Web Development and UI Development
 
 ## About Me
-<img width="270px" height = "200px" src="https://i.pinimg.com/originals/a2/70/d2/a270d270d5ca184422cf980475b99e24.gif" alt="cover" align="right"/>
-
 - I am a **Full Stack Developer** whose specialty is the **Front End**. I code User Interfaces for the Web and Mobile
 - 🔭 I’m working as a Software Engineer (SDE-2) at Procedure Technologies
 

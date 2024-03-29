@@ -9,9 +9,9 @@ I am a **Software Engineer**  from Mumbai. I have a knack for computers, softwar
 <img width="270px" height = "200px" src="https://i.pinimg.com/originals/a2/70/d2/a270d270d5ca184422cf980475b99e24.gif" alt="cover" align="right"/>
 
 - I am a **Full Stack Developer** whose specialty is the **Front End**. I code User Interfaces for the Web and Mobile
-- 🔭 I’m currently working on kanban-board 📝 :- A kanban board application using React, TypeScript and react-dnd library for drag and drop operations. Might scale it to a project management system in future.
+- 🔭 I’m working as a Software Engineer (SDE-2) at Procedure Technologies
 
-- 🌱 I’m currently learning React Native, Android, DevOps, Machine Learning
+- 🌱 I’m currently learning FastAPI, GoLong
 
 - 👯 I’m looking to collaborate on React, React Native or React Library Projects
 

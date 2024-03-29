@@ -11,7 +11,7 @@ I am a **Software Engineer**  from Mumbai. I have a knack for computers, softwar
 - I am a **Full Stack Developer** whose specialty is the **Front End**. I code User Interfaces for the Web and Mobile
 - 🔭 I’m working as a Software Engineer (SDE-2) at Procedure Technologies
 
-- 🌱 I’m currently learning FastAPI, GoLong
+- 🌱 I’m currently learning FastAPI, GoLang and System Design
 
 - 👯 I’m looking to collaborate on React, React Native or React Library Projects
 
